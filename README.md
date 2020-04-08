@@ -1,4 +1,4 @@
-# proxy
+# Proxy
 
 A new Flutter project.
 
